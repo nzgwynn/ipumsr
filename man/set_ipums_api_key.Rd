@@ -4,7 +4,7 @@
 \alias{set_ipums_api_key}
 \title{Set your IPUMS API key}
 \usage{
-set_ipums_api_key(api_key, save = overwrite, overwrite = FALSE, unset = FALSE)
+set_ipums_api_key(api_key, save = TRUE, overwrite = FALSE, unset = FALSE)
 }
 \arguments{
 \item{api_key}{API key associated with your user account.}
